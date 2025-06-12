@@ -1,4 +1,4 @@
-[Open in Colab](https://colab.research.google.com/github/majeed76/Renewable-System-Optimization/blob/main/Average_Model/notebooks/average_model.ipynb)
+[Open in Colab](https://colab.research.google.com/github/majeed76/Renewable-System-Optimization/blob/main/Average_Model/notebooks/Average_Model.ipynb)
 
 # ☀️ Renewable System Optimization
 
