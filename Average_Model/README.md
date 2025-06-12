@@ -1,3 +1,5 @@
+[Open in Colab](https://colab.research.google.com/github/majeed76/Renewable-System-Optimization/blob/main/Average_Model/notebooks/average_model.ipynb)
+
 # ☀️ Renewable System Optimization
 
 This project is part of an independent research internship focused on optimizing a hybrid energy system combining **solar**, **wind**, and **battery storage**.
